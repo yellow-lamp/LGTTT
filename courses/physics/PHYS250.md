@@ -1,1 +1,1 @@
-# PHYS240: Physics for Scientists and Engineers II
+# PHYS250: Physics for Scientists and Engineers II
