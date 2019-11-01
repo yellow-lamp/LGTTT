@@ -1,6 +1,6 @@
 # Let's Get Through This Together
 
-I'm beginning this project as to stave off the potential complacency onset in the absence of continual learning. If you would like to look beyond this project, see [resource/etc/other-resources.md](resource/etc/other-resources.md).
+I'm beginning this project as to stave off the potential complacency onset in the absence of continual learning. If you would like to look beyond this project, see [other resources](resources/etc/other-resources.md).
 
 ## Let's Get Started
 
