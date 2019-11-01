@@ -1,6 +1,6 @@
 # Let's Get Through This Together
 
-A guide to UMKC's [Computer Science/Information Technology] track.
+I'm beginning this project as to stave off the potential complacency onset in the absence of continual learning. If you would like to look beyond this project, see [resource/etc/other-resources.md](resource/etc/other-resources.md).
 
 ## Let's Get Started
 
